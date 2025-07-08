@@ -71,7 +71,7 @@ This project is licensed under the [MIT License](./LICENSE) — feel free to use
 
 ## 👨‍💻 Author
 
-**Krishna Chopra**  
+**Yashika Sharma**  
 Intern @ CodeCraft  
 [LinkedIn Profile](https://www.linkedin.com/in/yashika-sharma-906932351)
 
